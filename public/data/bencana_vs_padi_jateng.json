@@ -1,0 +1,9 @@
+[
+  {"tahun": 2018, "total_bencana": 612, "produksi_padi": 9650000},
+  {"tahun": 2019, "total_bencana": 924, "produksi_padi": 8420000},
+  {"tahun": 2020, "total_bencana": 738, "produksi_padi": 8750000},
+  {"tahun": 2021, "total_bencana": 791, "produksi_padi": 8600000},
+  {"tahun": 2022, "total_bencana": 856, "produksi_padi": 8480000},
+  {"tahun": 2023, "total_bencana": 803, "produksi_padi": 8310000},
+  {"tahun": 2024, "total_bencana": 748, "produksi_padi": 8200000}
+]

@@ -1,0 +1,9 @@
+[
+  {"tahun": 2018, "total_bencana": 612, "banjir": 210, "tanah_longsor": 180, "angin_kencang": 120, "kekeringan": 55, "gelombang_pasang": 27, "kebakaran_lahan": 20},
+  {"tahun": 2019, "total_bencana": 924, "banjir": 340, "tanah_longsor": 260, "angin_kencang": 180, "kekeringan": 80, "gelombang_pasang": 40, "kebakaran_lahan": 24},
+  {"tahun": 2020, "total_bencana": 738, "banjir": 280, "tanah_longsor": 200, "angin_kencang": 140, "kekeringan": 65, "gelombang_pasang": 33, "kebakaran_lahan": 20},
+  {"tahun": 2021, "total_bencana": 791, "banjir": 295, "tanah_longsor": 220, "angin_kencang": 155, "kekeringan": 70, "gelombang_pasang": 31, "kebakaran_lahan": 20},
+  {"tahun": 2022, "total_bencana": 856, "banjir": 320, "tanah_longsor": 240, "angin_kencang": 165, "kekeringan": 75, "gelombang_pasang": 36, "kebakaran_lahan": 20},
+  {"tahun": 2023, "total_bencana": 803, "banjir": 305, "tanah_longsor": 225, "angin_kencang": 155, "kekeringan": 72, "gelombang_pasang": 26, "kebakaran_lahan": 20},
+  {"tahun": 2024, "total_bencana": 748, "banjir": 280, "tanah_longsor": 210, "angin_kencang": 145, "kekeringan": 65, "gelombang_pasang": 28, "kebakaran_lahan": 20}
+]

@@ -1,0 +1,8 @@
+[
+  {"tahun": 2018, "energi": 685000, "pertanian": 115000, "kehutanan": 92000, "industri": 48000, "limbah": 31000},
+  {"tahun": 2019, "energi": 702000, "pertanian": 118000, "kehutanan": 140000, "industri": 50000, "limbah": 32500},
+  {"tahun": 2020, "energi": 645000, "pertanian": 112000, "kehutanan": 85000, "industri": 44000, "limbah": 30000},
+  {"tahun": 2021, "energi": 695000, "pertanian": 116000, "kehutanan": 95000, "industri": 48000, "limbah": 31500},
+  {"tahun": 2022, "energi": 730000, "pertanian": 120000, "kehutanan": 100000, "industri": 52000, "limbah": 33000},
+  {"tahun": 2023, "energi": 752000, "pertanian": 122000, "kehutanan": 108000, "industri": 54000, "limbah": 34000}
+]

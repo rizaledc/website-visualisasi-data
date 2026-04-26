@@ -1,0 +1,14 @@
+[
+  {"provinsi": "Jawa Timur", "produksi": 9.85},
+  {"provinsi": "Jawa Tengah", "produksi": 8.20},
+  {"provinsi": "Jawa Barat", "produksi": 7.42},
+  {"provinsi": "Sulawesi Selatan", "produksi": 5.18},
+  {"provinsi": "Sumatera Selatan", "produksi": 4.32},
+  {"provinsi": "Sumatera Utara", "produksi": 3.98},
+  {"provinsi": "Lampung", "produksi": 3.42},
+  {"provinsi": "Nusa Tenggara Barat", "produksi": 2.85},
+  {"provinsi": "Aceh", "produksi": 2.18},
+  {"provinsi": "Kalimantan Selatan", "produksi": 1.96},
+  {"provinsi": "Banten", "produksi": 1.72},
+  {"provinsi": "Sumatera Barat", "produksi": 1.58}
+]
